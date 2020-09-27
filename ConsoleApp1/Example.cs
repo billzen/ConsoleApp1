@@ -19,7 +19,7 @@ public class Example
             Console.WriteLine("   {0} subdirectories", dirs.Length);
             Console.WriteLine("   {0} files", files.Length);
         });
-
+        // ijcidwcji
         Console.ReadLine();
     }
 }

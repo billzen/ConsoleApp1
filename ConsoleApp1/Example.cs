@@ -19,11 +19,8 @@ public class Example
             Console.WriteLine("   {0} subdirectories", dirs.Length);
             Console.WriteLine("   {0} files", files.Length);
         });
-       // from server 2 message
-        // 3 message from server
-       // new change from new Branch 2
-        // server 2 change from New Branch2
-       //  2 change from New Branch2
+
+        // Local change 11/09/2021 10:28
         Console.ReadLine();
     }
 }

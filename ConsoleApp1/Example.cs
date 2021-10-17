@@ -16,3 +16,8 @@ public class Example
 //       C:\Users\<username>\Documents contains:
 //          24 subdirectories
 //          16 files
+
+    public void test() 
+    {
+        Console.ReadLine();
+    }

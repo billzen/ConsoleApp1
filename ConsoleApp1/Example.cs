@@ -6,7 +6,7 @@ public class Example
 {
     public static void Main()
     { 
-<<<<<<< HEAD
+
         Task[] tasks = new Task[2];
         String[] files = null;
         String[] dirs = null;
@@ -19,22 +19,27 @@ public class Example
             Console.WriteLine("{0} contains: ", docsDirectory);
             Console.WriteLine("   {0} subdirectories", dirs.Length);
             Console.WriteLine("   {0} files", files.Length);
-        });
+        })
        // from server 2 message
         // 3 message from server
-       // new change from new Branch 2        Console.ReadLine();
-=======
-
+       // new change from new Branch 2    
        Console.ReadLine();
->>>>>>> 5d426d35c368b4ca5f6e06e3f1e003c3af6956cf
-    }
-}
-// The example displays output like the following:
-//       C:\Users\<username>\Documents contains:
-//          24 subdirectories
-//          16 files
+       Console.ReadLine();
 
-    public void test() 
+
+        //1. Local change 11/09/2021 10:28
+        //2. Server change 11/09/2021 10:32
+        //3. Local change 11/09/2021  10:35
+        //4. Local change 11/09/2021  10:45 frpm master2
+        //5. Local change 11/09/2021  11:16 from master
+
+        Console.ReadLine();
+
+    }
+  
+      public void test() 
     {
         Console.ReadLine();
     }
+}
+

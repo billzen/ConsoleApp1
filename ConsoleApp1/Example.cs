@@ -6,6 +6,7 @@ public class Example
 {
     public static void Main()
     { 
+<<<<<<< HEAD
         Task[] tasks = new Task[2];
         String[] files = null;
         String[] dirs = null;
@@ -22,9 +23,18 @@ public class Example
        // from server 2 message
         // 3 message from server
        // new change from new Branch 2        Console.ReadLine();
+=======
+
+       Console.ReadLine();
+>>>>>>> 5d426d35c368b4ca5f6e06e3f1e003c3af6956cf
     }
 }
 // The example displays output like the following:
 //       C:\Users\<username>\Documents contains:
 //          24 subdirectories
 //          16 files
+
+    public void test() 
+    {
+        Console.ReadLine();
+    }

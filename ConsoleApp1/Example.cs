@@ -38,11 +38,13 @@ public class Example
       public void Remootetest1() 
     {
         Console.ReadLine();
+          
     }
     
     public void REmotetest2() 
     {
         Console.ReadLine();
+        
     }
 }
 

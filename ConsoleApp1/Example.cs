@@ -6,10 +6,8 @@ public class Example
 {
     public static void Main()
     { 
-        
 
-
-        Console.ReadLine();
+       Console.ReadLine();
     }
 }
 // The example displays output like the following:
